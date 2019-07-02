@@ -1,9 +1,10 @@
 # MyOldGames
+
 childhood games that I made with flash action script 2.0 :)
 
 https://www.slideshare.net/slideshow/embed_code/key/ncMwsezG2FRhYN
 
-Travian Village
+# Travian Village
 
 ![image](https://user-images.githubusercontent.com/16706911/60533444-dfbb1f80-9d14-11e9-9b5d-33c6b739c50a.png)
 
@@ -24,13 +25,13 @@ Gaza is under siege
 ![image](https://user-images.githubusercontent.com/16706911/60533326-9a96ed80-9d14-11e9-9156-b8a21827bc54.png)
 
 
-World of goo match game
+# World of goo match game
 
 ![image](https://user-images.githubusercontent.com/16706911/60533990-1a718780-9d16-11e9-8b2b-b46e431f3e6c.png)
 
 ![image](https://user-images.githubusercontent.com/16706911/60534032-32490b80-9d16-11e9-817b-c4c8bb4419d3.png)
 
-The riddles of the prophets
+# The riddles of the prophets
 
 ![image](https://user-images.githubusercontent.com/16706911/60534206-7c31f180-9d16-11e9-956c-5dd39db861c8.png)
 
@@ -40,7 +41,7 @@ The riddles of the prophets
 
 ![image](https://user-images.githubusercontent.com/16706911/60534267-a1befb00-9d16-11e9-8c35-5693c3a9f844.png)
 
-Chicken
+# Chicken
 
 ![image](https://user-images.githubusercontent.com/16706911/60534373-e3e83c80-9d16-11e9-87e8-b4ca2083a253.png)
 
@@ -50,7 +51,13 @@ Chicken
 
 ![image](https://user-images.githubusercontent.com/16706911/60534482-29a50500-9d17-11e9-9491-274dbba923b4.png)
 
+# School game
 
+![image](https://user-images.githubusercontent.com/16706911/60534646-8c969c00-9d17-11e9-8e31-837f6216ec86.png)
+
+![image](https://user-images.githubusercontent.com/16706911/60534671-97e9c780-9d17-11e9-897c-94a6cc20fbd8.png)
+
+![image](https://user-images.githubusercontent.com/16706911/60534707-a801a700-9d17-11e9-924c-1c3e4a406b05.png)
 
 
 
